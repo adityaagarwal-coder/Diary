@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "895744235882",
+    "project_id": "drishticd-frontend",
+    "storage_bucket": "drishticd-frontend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895744235882:android:b7859198970309ff84ed13",
+        "android_client_info": {
+          "package_name": "com.example.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895744235882-erlcicnji5cvulhjigu3mrhnjanr5n79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2n_lsLNh_j0sx_NuIz3v1Q3yoaP4CAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895744235882-erlcicnji5cvulhjigu3mrhnjanr5n79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895744235882:android:6c230ba8519b391684ed13",
+        "android_client_info": {
+          "package_name": "com.example.drishti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "895744235882-erlcicnji5cvulhjigu3mrhnjanr5n79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr2n_lsLNh_j0sx_NuIz3v1Q3yoaP4CAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "895744235882-erlcicnji5cvulhjigu3mrhnjanr5n79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
